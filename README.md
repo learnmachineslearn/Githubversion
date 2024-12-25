@@ -1,3 +1,5 @@
+*Original project built from scratch.*
+
 This is a password generator with standard input validation standards that stores a created password in the cloud. 
 It authenticates and validates your Google credentials to gain access to a Google Sheet called "PasswordLog" where your new password will be stored
 by time, domain, and generated new password. 
